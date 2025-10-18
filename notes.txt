@@ -1,0 +1,7 @@
+Ecmascript :
+    This is the stanadard that javascript follows. This is the standard on which this language is based.
+    They both can be used interchangebly almost every time. It defines the core features and syntax rules for languages like
+    javascript. 
+
+Why javascript? :
+    We use this language to create interactive websites.
